@@ -1,0 +1,17 @@
+i {
+    font-size: 60px;
+    margin-top: 20%;
+}
+
+.box-body h3 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+}
+
+
+.item {
+    padding: 20px;
+    background-color: blueviolet;
+    margin: 10px;
+}
